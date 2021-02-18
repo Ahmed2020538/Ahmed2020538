@@ -41,7 +41,7 @@
 
 | | |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![Ahmed's github stats](file:///G:/Data%20Field/D..S..Course/Repos/Ahmed2020538/c1.html) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed2020538&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
 
 
 
