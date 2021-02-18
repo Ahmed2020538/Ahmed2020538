@@ -39,6 +39,12 @@
 
 
 
+| | |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed2020538&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
+
+
+
 
 #### Find me in social media
 
