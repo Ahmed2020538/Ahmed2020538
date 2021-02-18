@@ -41,7 +41,7 @@
 
 | | |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![Ahmed's github stats](https://camo.githubusercontent.com/f642af2648b8975c0d470e56d9897736bd5a5f6b425b572734f30696e22ac690/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41686d6564323032303533382673686f775f69636f6e733d74727565267468656d653d616c676f6c696126) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
+| ![Ahmed's github stats](https://camo.githubusercontent.com/f642af2648b8975c0d470e56d9897736bd5a5f6b425b572734f30696e22ac690/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41686d6564323032303533382673686f775f69636f6e733d74727565267468656d653d616c676f6c696126636f756e745f707269766174653d74727565) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
 
 
 
