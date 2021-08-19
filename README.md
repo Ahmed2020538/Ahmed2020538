@@ -12,8 +12,9 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 - 👯 I’m looking to collaborate on Data Science And AI
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Computer Science
-- 📫 How to reach me: ahmed.elsayed862@yahoo.com
+- 📫 How to reach me: ahmed.elsayed862@yahoo.com  | ahmedelsayedebrahim348@gmail.com
 - 😄 Pronouns: Freind
+- 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 - ⚡ Fun fact: Just Learn
 
 
