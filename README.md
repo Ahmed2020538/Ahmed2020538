@@ -8,10 +8,10 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 
 
 - 🔭 I’m currently working on Data Analytic and Data Science.
-- 🌱 I’m currently learning Data science and AI.
+- 🌱 I’m currently learning AI and Trading.
 - 👯 I’m looking to collaborate on Data Science And AI.
-- 🤔 I’m looking for help with AI.
-- 💬 Ask me about Computer Science.
+- 🤔 I’m looking for help with AI and Trading.
+- 💬 Ask me about Computer Science, Data Science and Trading.
 - 📫 How to reach me: ahmad.elsayed@alahlypharos.com  | ahmedelsayedebrahim348@gmail.com .
 - 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 - 😄 Pronouns: Freind
