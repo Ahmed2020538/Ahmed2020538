@@ -37,7 +37,6 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="30" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
@@ -45,34 +44,80 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 
 
-**Languages and Tools:**
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="25" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
-<code><img height="25" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
-<!--[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]()-->
-
-<p align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Pratik's Github readme stats">
-<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9" />
+  
 </p>
 <br>
+
+<table align="right">
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> Arabic ★★★</a></td></tr>
+
+</table>
+
 
 
 | | |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![Ahmed's github stats](https://camo.githubusercontent.com/f642af2648b8975c0d470e56d9897736bd5a5f6b425b572734f30696e22ac690/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41686d6564323032303533382673686f775f69636f6e733d74727565267468656d653d616c676f6c696126636f756e745f707269766174653d74727565) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
+| <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ahmed2020538&theme=algolia&show_icons=true" alt="Pratik's Github readme stats"> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
+
+
+<details>
+<summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand) 🔗 </i> </summary>
+<br>  
+    
+📜Journal Articles
+     
+|No|   Title   |    DOI    |  Journal  |
+|--|-----------|-----------|-----------|
+|01| [*An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory (2021)*](https://doi.org/10.1155/2021/6666619) |   <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1155/2021/6666619-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Complexity](https://www.hindawi.com/journals/complexity)** |
+|02| [*Stock price forecasting based on LLE-BP neural network model (2020)*](https://doi.org/10.1016/j.physa.2020.124197) |   <a href="https://doi.org/10.1016/j.physa.2020.124197" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.physa.2020.124197-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)** |    
+|03| [*REDPC: A residual error-based density peak clustering algorithm (2019)*](https://doi.org/10.1016/j.neucom.2018.06.087) |   <a href="https://doi.org/10.1016/j.neucom.2018.06.087" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.neucom.2018.06.087-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)** |     
+|04| [*A Novel Density Peaks Clustering Halo Node Assignment Method based on K-Nearest Neighbor Theory (2019)*](https://doi.org/10.1109/access.2019.2957242) |   <a href="https://doi.org/10.1109/access.2019.2957242" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/access.2019.2957242-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[IEEE Access](https://ieeeaccess.ieee.org/)** |
+|05| [*FREDPC: A Feasible Residual Error-Based Density Peak Clustering Algorithm With the Fragment Merging Strategy (2019)*](https://doi.org/10.1109/access.2019.2926579) |   <a href="https://doi.org/10.1109/access.2019.2926579" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/access.2019.2926579-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[IEEE Access](https://ieeeaccess.ieee.org/)** |
+|06| [*Empirical likelihood based inference for generalized additive partial linear models (2018)*](https://doi.org/10.1016/j.amc.2018.06.050) |   <a href="https://doi.org/10.1016/j.amc.2018.06.050" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.amc.2018.06.050-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)** |    
+|07| [*GDPC: Gravitation-based Density Peaks Clustering algorithm (2018)*](https://doi.org/10.1016/j.physa.2018.02.084) |   <a href="https://doi.org/10.1016/j.physa.2018.02.084" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.physa.2018.02.084-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)** |     
+|08| [*Pocket-switch-network based services optimization in crowdsourced delivery systems (2017)*](https://doi.org/10.1016/j.compeleceng.2017.05.034) |   <a href="https://doi.org/10.1016/j.compeleceng.2017.05.034" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.compeleceng.2017.05.034-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Computers & Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)** |     
+|09| [*Application of Modified OPTICS Algorithm in E-Commerce Sites Classification and Evaluation (2017)*](https://doi.org/10.4018/jeco.2016010106) |   <a href="https://doi.org/10.4018/jeco.2016010106" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.4018/jeco.2016010106-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Journal of Electronic Commerce in Organizations](https://www.igi-global.com/gateway/journal/1076)** | 
+|10| [*FP-ABC: Fast and Parallel ABC Based Energy-Efficiency Live VM Allocation Policy in Data Centers (2016)*](https://doi.org/10.1155/2016/9524379) |   <a href="https://doi.org/10.1155/2016/9524379" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1155/2016/9524379-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Scientific Programming](https://www.hindawi.com/journals/sp/)** |    
+   
+    
+<br>  
+    
+📃 Conference Proceedings
+|No|  Title  |  DOI  | Conference |
+|--|---------|-------|------------|
+|01| [*A novel density peak clustering algorithm based on squared residual error (2017)*](https://doi.org/10.1109/spac.2017.8304248) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/spac.2017.8304248-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[2017 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC)](https://ieeexplore.ieee.org/xpl/conhome/8300290/proceeding)** |
+|02| [*A Prediction of Financial Distress for Listed Companies of the New tertiary board Based on Factor Analysis and Logistic Regression (2016)*](https://doi.org/10.2991/icemse-16.2016.6) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2991/icemse&#8722;16.2016.6-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Proceedings of the 2016 International Conference on Education, Management Science and Economics](https://www.atlantis-press.com/proceedings/icemse-16/articles)** |
+
+<br>     
+    
+📖 Book Chapter
+|No|  Title  |  DOI  | Book Chapter |
+|--|---------|-------|--------------|
+|01| [*Parameters Estimation of Regression Model Based on the Improved AFSA (2017)*](https://doi.org/10.1007/978-3-319-49568-2_3) |   <a href="https://doi.org/10.1007/978-3-319-49568-2_3" target="_blank"><img alt="DOI" width ='600px' src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&#95;3-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Recent Developments in Intelligent Systems and Interactive Applications](https://www.springer.com/gp/book/9783319495675)** |    
+    
+    
+    
+</details>
 
 
 
@@ -85,5 +130,11 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 [![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&labelColor=informational&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/eng.mido.33821/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-brightgreen?style=flat&labelColor=brightgreen&logo=whatsapp&logoColor=whiteg "Whatsapp")](https://wa.me/201013900542?text=Hello)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/eng.mido.33821/ "Instagram")
+
+
+
+
+
+
 
 
