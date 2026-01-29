@@ -58,6 +58,7 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 
 
 
@@ -119,6 +120,10 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 </details>
 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Ahmed2020538)
+
+[![Github](https://img.shields.io/github/followers/Ahmed2020538?label=Follow&style=social)](https://github.com/Ahmed2020538)
+
 
 
 <h3> Find me in social media<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
@@ -126,9 +131,12 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Ahmed2020538 "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/ahmed-elsayed-31a399199/ "LinkedIn")
+[![X](https://img.shields.io/badge/-X-black?style=flat&labelColo=black&logo=X&logoColor=white "X")](https://x.com/AhmedEL09668322)
 [![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&labelColor=informational&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/eng.mido.33821/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-brightgreen?style=flat&labelColor=brightgreen&logo=whatsapp&logoColor=whiteg "Whatsapp")](https://wa.me/201013900542?text=Hello)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/eng.mido.33821/ "Instagram")
+
+
 
 
 
