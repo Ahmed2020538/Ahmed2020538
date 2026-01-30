@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="400" width="1000">
 <br><br>
 
 You've stumbled upon Ahmed Elsayed's GitHub profile!
