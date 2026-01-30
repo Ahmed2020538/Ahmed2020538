@@ -65,7 +65,6 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-
 </p>
 
 
@@ -131,15 +130,7 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 |--|---------|-------|--------------|
 |01| [*Parameters Estimation of Regression Model Based on the Improved AFSA (2017)*](https://doi.org/10.1007/978-3-319-49568-2_3) |   <a href="https://doi.org/10.1007/978-3-319-49568-2_3" target="_blank"><img alt="DOI" width ='600px' src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&#95;3-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Recent Developments in Intelligent Systems and Interactive Applications](https://www.springer.com/gp/book/9783319495675)** |    
     
-    
-    
 </details>
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Ahmed2020538)
-
-[![Github](https://img.shields.io/github/followers/Ahmed2020538?label=Follow&style=social)](https://github.com/Ahmed2020538)
-
 
 
 <h3> Find me in social media<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
