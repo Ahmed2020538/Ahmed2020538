@@ -1,5 +1,9 @@
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="1000">
+<br><br>
+
 You've stumbled upon Ahmed Elsayed's GitHub profile!
 ***************************************************
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
@@ -16,6 +20,8 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 
 
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
+
+
 
 
 
@@ -60,24 +66,34 @@ You've stumbled upon Ahmed Elsayed's GitHub profile!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 
-
-
-  
 </p>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/Ahmed2020538">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed2020538&theme=algolia" alt="Al Ahmed2020538's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Ahmed2020538"><img alt="Al Ahmed2020538's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ahmed2020538&show_icons=true&count_private=true&theme=algolia" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Ahmed2020538"><img alt="Al Ahmed2020538's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&langs_count=8&layout=compact&theme=algolia" height="192px" width="49.5%"/></a>
+
+  ![Al Ahmed2020538's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed2020538&custom_title=Al%20AhmedElSa's%20GitHub%20Activity%20Graph&bg_color=050B1A&color=4CC9F0&line=4895EF&point=72EFDD&area_color=4CC9F0&title_color=FFFFFF&area=true)
+  <br/>
+</a>
+
+
+
 <br>
 
 <table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★☆</a></td></tr>
-
+<tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+<tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="25"> English ★★★</a></td></tr>
+<tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="25"> German ★★☆</a></td></tr>
 </table>
-
-
-
-| | |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ahmed2020538&theme=algolia&show_icons=true" alt="Pratik's Github readme stats"> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2020538&theme=algolia) |
 
 
 <details>
